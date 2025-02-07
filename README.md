@@ -1,1 +1,1 @@
-https://ai-powered-sql-assistant-me8gqf9rtbaxymbxaqcyj8.streamlit.app/
+https://ai---sql-assistant-igfmhjztkbrw92idmt5egs.streamlit.app/
